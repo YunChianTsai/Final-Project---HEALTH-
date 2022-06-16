@@ -1,0 +1,109 @@
+main {
+  min-height: 5em; }
+  main #location {
+    margin-top: 0.5rem;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    color: #1f69be;} 
+  main #station {
+    /* margin-top: .5rem; */
+    text-align: center;
+    font-size: 20px;
+    font-weight: 400;
+    color: #033a79;} 
+  main #temperature {
+    /* margin-top: .75rem; */
+    text-align: center;
+    font-size: 65px;
+    font-weight: 100px;
+    color: #1f69be;}
+    main #h_l_temperature {
+    /* margin-top: .75rem; */
+    text-align: center;
+    font-size: 25px;
+    font-weight: 100px;
+    color: #033a79;}
+  main #phenmn {
+    /* margin-top: .75rem; */
+    text-align: center;
+    font-size: 50px;
+    font-weight: 100px;
+    color: #1f69be;}
+  main #date {
+    /* margin-top: .75rem; */
+    text-align: center;
+    font-size: 40px;
+    font-weight: 100px;
+    color: #F5FFFA;}
+  main #time {
+    /* margin-top: .75rem; */
+    text-align: center;
+    font-size: 45px;
+    font-weight: 100px;
+    color: #F5FFFA;}
+    /* main #desc {
+    margin-top: .75rem;
+    text-align: center;
+    font-size: .9rem;
+    font-weight: 400;
+    padding: 4%;
+    border: solid;} */
+  /* main #right {
+    margin-top: 2rem;
+    padding: 0 1rem;
+    border: solid;} */
+  /* main #right img {
+    width: 25px; }
+  main #right div {
+    border-bottom: 1px solid rgba(31, 105, 190, 0.2);
+    padding-top: .6rem;
+    display: flex;
+    display: -ms-flexbox;
+    flex-direction: row;
+    -ms-flex-direction: row;
+    flex-wrap: nowrap;
+    align-items: center; 
+    text-align: center; } */
+  /* main #right div span:nth-child(1) {
+    flex-basis: 20%;
+    -ms-flex: 1 1 20%; }
+  main #right div span:nth-child(2) {
+    flex-grow: 1; }
+  main #right div span:nth-child(3) {
+    flex-grow: 1; }
+  main #right div span:nth-child(4) {
+    flex-grow: 1; } */
+
+/*  FOOTER  */
+/* footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  padding: 1em;
+  background-color: #000b03;
+  color: #fff;
+  font-size: .9rem; }
+
+/* OTHER */
+/* div.keepOpen {
+  clear: both; }
+
+@media only screen and (min-width: 480px) {
+  #left, #right {
+    float: left;
+    width: 50%; } }
+@media only screen and (min-width: 800px) {
+  div#wrapper {
+    max-width: 800px;
+    margin: 3rem auto 0 auto;
+    border: 1px solid #666;
+    height: auto;
+    box-shadow: 5px 5px 10px #999; }
+
+  footer {
+    clear: both;
+    position: relative; } } */ */
+
+/*# sourceMappingURL=styles.css.map */

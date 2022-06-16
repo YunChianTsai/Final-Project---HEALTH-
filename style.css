@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(252, 247, 247);
+}
+a{
+    text-decoration: none;
+    font-size: 30px;
+    color: rgb(202, 161, 241);
+    margin: 50px; 
+}
+.modal-header h3 {
+    font-size: 30px;
+    color: rgb(204, 162, 244);
+    /* 置中 */
+    position: absolute;
+    top: 7%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    }
+    
+.modal-content {
+    background-color: rgb(204, 233, 246);
+}
+    
+.modal-body form .account,
+.modal-body form .text {
+    margin: 30px;
+    width: 90%;
+    border-radius: 20px;
+}
+    
+.remember {
+    margin-bottom: 20px;
+}
+    
+.modal-fotter form .btn {
+    width: 100%;
+    font-size: 25px;
+    color: white;
+}
